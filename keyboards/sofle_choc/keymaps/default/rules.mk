@@ -4,7 +4,7 @@ OLED_ENABLE = yes
 
 # Enable per-key lighting
 RGB_MATRIX_ENABLE = yes
-
+RGB_MATRIX_DRIVER = WS2812
 # Enable audio keys and system control
 EXTRAKEY_ENABLE = yes
 
